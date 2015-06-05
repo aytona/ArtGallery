@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 513423c367dee654798e88881032abb5
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Ceiling_base
+    100002: //RootNode
+    100004: Eye01
+    100006: Eye02
+    100008: Eye03
+    100010: Eye04
+    100012: Hanger_rod01
+    100014: Hanger_rod02
+    100016: Hanger_rod03
+    100018: Hanger_rod04
+    100020: Hanger_rod05
+    100022: Wood_hanger
+    400000: Ceiling_base
+    400002: //RootNode
+    400004: Eye01
+    400006: Eye02
+    400008: Eye03
+    400010: Eye04
+    400012: Hanger_rod01
+    400014: Hanger_rod02
+    400016: Hanger_rod03
+    400018: Hanger_rod04
+    400020: Hanger_rod05
+    400022: Wood_hanger
+    2300000: Ceiling_base
+    2300002: Eye01
+    2300004: Eye02
+    2300006: Eye03
+    2300008: Eye04
+    2300010: Hanger_rod01
+    2300012: Hanger_rod02
+    2300014: Hanger_rod03
+    2300016: Hanger_rod04
+    2300018: Hanger_rod05
+    2300020: Wood_hanger
+    3300000: Ceiling_base
+    3300002: Eye01
+    3300004: Eye02
+    3300006: Eye03
+    3300008: Eye04
+    3300010: Hanger_rod01
+    3300012: Hanger_rod02
+    3300014: Hanger_rod03
+    3300016: Hanger_rod04
+    3300018: Hanger_rod05
+    3300020: Wood_hanger
+    4300000: Eye01
+    4300002: Eye02
+    4300004: Eye04
+    4300006: Eye03
+    4300008: Wood_hanger
+    4300010: Hanger_rod03
+    4300012: Hanger_rod01
+    4300014: Hanger_rod02
+    4300016: Hanger_rod04
+    4300018: Hanger_rod05
+    4300020: Ceiling_base
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
